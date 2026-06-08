@@ -1,0 +1,4 @@
+interface:
+  display_name: "MRI ML SCI MATLAB"
+  short_description: "MATLAB workflows for leakage-safe MRI machine learning"
+  default_prompt: "Use this skill to build or review a MATLAB MRI machine-learning pipeline with nested CV, feature selection, permutation testing, and manuscript-ready reporting."
